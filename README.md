@@ -5,4 +5,4 @@ The source code uses strings to display text and a array to hold cordinates of t
 <p></p>
 <p>To use this program just run the cpp file and you are good to go.</p>
 <p>---------------------------------------------------------------------------------------------------------------------</p>
-<p>//updated 5/15/2018 13:49:52</p>
+<p>updated 5/15/2018 13:49:52</p>
