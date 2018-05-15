@@ -42,7 +42,7 @@ int main(int argc, char *argv[])
 	string onTwo  	= "You are at the start of the maze";
 	string onThree	= "You are at the end of the maze";
 	string onFour	= "You are in a hole. ";
-	string death 	= "Congratulations! You are dead.";
+	string death 	= "Congratulations! You are dead. GAME OVER.";
 	string victory 	= "Congratulations, you didn’t die, so you won.";
 	string one 		= "+";
 	string two 		= "B";
